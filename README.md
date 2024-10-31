@@ -6,7 +6,7 @@ This simple Python3 script aims to **Reverse and complement** genbank files (for
 ## Usage
 
 ```bash
-python3 reverse_genebank.py -i HTH_operon-2.gbk
+python3 reverse_comp_genbank.py -i HTH_operon-2.gbk
 ```
 As dependencies, you need to have Biopython, warning, and argparse (get them via pip3 or conda)
 
