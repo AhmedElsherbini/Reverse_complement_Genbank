@@ -1,7 +1,7 @@
 # Reverse_complement_Genebank
 **Kindly if you find this repo useful for your work, cite & star this repo**
 
-This simple Python3 script aims to Reverse and complement genebank (gene, operon, or genome) files.
+This simple Python3 script aims to **Reverse and complement** genebank files (for genes, operons, or genomes).
 
 ## Usage
 
